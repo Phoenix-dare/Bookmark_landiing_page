@@ -27,15 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Code](./public/ss_desk.png)
-![Live](./public/ss_mobile.png)
+![](./public/ss_desk.png)
+![](./public/ss_mobile.png)
 
 
 
 ### Links
 
-- Solution URL: [](https://github.com/Phoenix-dare/Bookmark_landing_page/)
-- Live Site URL: [](https://phoenix-dare.github.io/Bookmark_landing_page/)
+- Solution URL: [code](https://github.com/Phoenix-dare/Bookmark_landing_page/)
+- Live Site URL: [Live](https://phoenix-dare.github.io/Bookmark_landing_page/)
 
 ## My process
 
