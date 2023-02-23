@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/ss_desk.png)
-![](./public/ss_mobile.png)
+![Code](./public/ss_desk.png)
+![Live](./public/ss_mobile.png)
 
 
 
